@@ -1,2 +1,4 @@
-sth_fun_in_matlab
-=================
+somthing fun in matlab
+======================
+
+Fun stuff you can do in Matlab.
